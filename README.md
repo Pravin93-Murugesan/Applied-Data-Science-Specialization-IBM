@@ -7,7 +7,7 @@ The course taught me to load, manipulate, analyze cool datasets, use some of its
 Through multiple courses within the specialization, I have listed out some key learning outcomes: 
   - **Data Analysis with Python**
     - Using Pandas, Numpy and Scipy libraries
-      - Import Datasets, 
+      - Import Datasets
       - Clean the Data
       - Data frame manipulation
       - Summarizing the Data
