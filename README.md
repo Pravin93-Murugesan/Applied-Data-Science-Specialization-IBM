@@ -1,4 +1,4 @@
-# Applied-Data-Science-Specialization-IBM
+# Applied Data Science Specialization (IBM)
 ## Comparing Neighbourhoods in København and Malmö using Python
 
 All work here is based on an intensive course ``Applied Data Science Specialization`` offered by **IBM**. I acquired hands-on skills for data science by learning Python.
