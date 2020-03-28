@@ -1,7 +1,7 @@
 # Applied Data Science Specialization (IBM)
 ## Comparing Neighbourhoods in København and Malmö using Python
 
-All work here is based on an intensive course ``Applied Data Science Specialization`` offered by **IBM**. I acquired hands-on skills for data science by learning Python.
+All work here is based on an intensive course ``Applied Data Science Specialization`` offered by **IBM** through Coursera. I acquired hands-on skills for data science by learning Python.
 
 The course taught me to load, manipulate, analyze cool datasets, use some of its machine learning algorithms to build smart models and make cool predictions, visualize data and findings in a stimulating way. It also gave me a taste of what data scientists go through in real life when data is not readily available. The project work (link given below) refined my skills for exploring and analyzing data.
 
